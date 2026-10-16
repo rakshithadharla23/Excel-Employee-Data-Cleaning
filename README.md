@@ -1,4 +1,4 @@
-# Excel Employee Data Cleaning Project
+# Excel Employee Data Cleaning Project.
 
 ## Project Overview
 This is a sample Excel data-cleaning project demonstrating how raw employee data can be organized, cleaned, and reviewed for data-quality issues using Microsoft Excel.
